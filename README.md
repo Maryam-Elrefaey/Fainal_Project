@@ -1,4 +1,4 @@
-**Crowd-Funding Web App**
+# **Crowd-Funding Web App**
 A Django-based web application that allows users to create and support fundraising projects.
 Features include:
 
